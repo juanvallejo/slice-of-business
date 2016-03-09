@@ -6,6 +6,7 @@ Scanner application modified for use by the Luter School of Business at CNU.
 
 If using this application for the first time on a Windows machine, be sure to follow the steps below for proper setup:
 
+- Make sure [Google Chrome](https://www.google.com/chrome/browser/desktop/) is installed on the machine.
 - Replace the spreadsheet `Master.xlsx` located in the `results` folder. `Master.xlsx` should contain a list of all students in the department whose attendance you wish to track. Please ensure this spreadsheet follows the format specified by the current `Master.xlsx` spreadsheet.
 
 After the above steps have been done, simply `dobule click` the `Scanner.lnk` file on this folder. (This is usually the file with a blue icon. It should the only file named *Scanner* in this folder).
